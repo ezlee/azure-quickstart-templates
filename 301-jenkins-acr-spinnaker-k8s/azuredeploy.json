@@ -326,7 +326,7 @@
                     {
                         "name": "agentpools",
                         "count": 1,
-                        "vmSize": "Standard_DS11_v2",
+                        "vmSize": "Standard_DS11-1_v2",
                         "dnsPrefix": "[concat(variables('kubernetesDnsPrefix'),'agents')]"
                     }
                 ],
